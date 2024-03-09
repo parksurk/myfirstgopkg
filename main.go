@@ -1,4 +1,4 @@
-package myforstgopkg
+package myfirstgopkg
 
 import "fmt"
 
